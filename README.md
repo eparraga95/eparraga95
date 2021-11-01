@@ -1,6 +1,6 @@
 ## Hi, I'm Eduardo! :wave:
 
-A Front-end Web Develper and Web Development Student @ Kenzie Academy Brasil, hoping to create solutions for problems.
+A Front-end Web Developer and Web Development Student @ Kenzie Academy Brasil, hoping to create solutions for problems.
 
 <div align="center">
   <a href="https://github.com/eparraga95">
