@@ -2,7 +2,7 @@
 
 A Front-end Web Developer and Web Development Student @ Kenzie Academy Brasil, hoping to create solutions for problems.
 
-- :seedling: Currently learning Python, Flask and MongoDB
+- :seedling: Currently learning Python, Flask, MongoDB and PostgreSQL.
 
 <div align="center">
   <a href="https://github.com/eparraga95">
