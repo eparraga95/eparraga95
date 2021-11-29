@@ -2,7 +2,7 @@
 
 A Front-end Web Developer and Web Development Student @ Kenzie Academy Brasil, hoping to create solutions for problems.
 
-- :seedling: Currently learning Python, Flask, MongoDB and PostgreSQL.
+- :seedling: Currently learning Python, Flask, PostgreSQL and SQLAlchemy.
 
 <div align="center">
   <a href="https://github.com/eparraga95">
@@ -17,6 +17,8 @@ A Front-end Web Developer and Web Development Student @ Kenzie Academy Brasil, h
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="SQLAchemy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg">
 </div>
   
   ##
