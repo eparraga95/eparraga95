@@ -1,8 +1,8 @@
 ## Hi, I'm Eduardo! :wave:
 
-A Front-end Web Developer and Web Development Student @ Kenzie Academy Brasil, hoping to create solutions for problems.
+A Full Stack Web Developer, Web Development Student and Jr. Content Manager @ Kenzie Academy Brasil, hoping to create solutions for problems.
 
-- :seedling: Currently learning Back-end with NodeJS + Express.
+- :seedling: Currently learning Back-end with Python and Django.
 
 <div align="center">
   <a href="https://github.com/eparraga95">
