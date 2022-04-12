@@ -2,7 +2,7 @@
 
 A Full Stack Web Developer, Web Development Student and Jr. Content Manager @ Kenzie Academy Brasil, hoping to create solutions for problems.
 
-- :seedling: Currently learning Back-end with Python and Django.
+- :seedling: Currently learning Next.js, a React Framework
 
 <div align="center">
   <a href="https://github.com/eparraga95">
