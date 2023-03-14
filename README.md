@@ -1,8 +1,6 @@
 ## Hi, I'm Eduardo! :wave:
 
-A Full Stack Web Developer, Web Development Student and Jr. Content Manager @ Kenzie Academy Brasil, hoping to create solutions for problems.
-
-- :seedling: Currently learning Next.js, a React Framework
+- :seedling: Currently setting up a Web Development environment with WSL2 on my new PC.
 
 <div align="center">
   <a href="https://github.com/eparraga95">
