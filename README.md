@@ -1,6 +1,6 @@
 ## Hi, I'm Eduardo! :wave:
 
-- :seedling: Currently setting up a Web Development environment with WSL2 on my new PC.
+- :seedling: Currently learning Next.js with Tailwind and Typescript.
 
 <div align="center">
   <a href="https://github.com/eparraga95">
