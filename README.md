@@ -1,6 +1,8 @@
 ## Hi, I'm Eduardo! :wave:
 
-- :seedling: Currently learning Next.js with Tailwind and Typescript.
+- :seedling: Currently learning:
+  - Next for front-end
+  - Nest for back-end with TypeORM and MySQL
 
 <div align="center">
   <a href="https://github.com/eparraga95">
