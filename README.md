@@ -2,7 +2,7 @@
 
 - :seedling: Currently learning:
   - Next for front-end
-  - Nest for back-end with TypeORM and MySQL
+  - Nest for back-end with TypeORM and PostgreSQL
 
 <div align="center">
   <a href="https://github.com/eparraga95">
