@@ -1,8 +1,10 @@
 ## Hi, I'm Eduardo! :wave:
 
 - :seedling: Currently learning:
-  - Next for front-end
   - Nest for back-end with TypeORM and PostgreSQL
+
+- :construction_worker: Currently Working on side projects:
+  - [DanceFit Scoreboard](https://dancefitscoreboard.vercel.app/login)
 
 <div align="center">
   <a href="https://github.com/eparraga95">
