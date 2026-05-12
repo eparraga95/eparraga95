@@ -1,10 +1,13 @@
 ## Hi, I'm Eduardo! :wave:
 
-- :seedling: Currently learning:
-  - Nest for back-end with TypeORM and PostgreSQL
+- 💼 Currently working @ Célebre as Mid Level SE
 
-- :construction_worker: Currently Working on side projects:
+- :seedling: Currently learning:
+  - Data Engineering: Databricks, Python for DE, PySpark, Medallion Arch
+
+- :construction_worker: Side projects:
   - [DanceFit Scoreboard](https://dancefitscoreboard.vercel.app/login)
+  - [Pick It Up](https://pickitup-alpha.vercel.app/)
 
 <div align="center">
   <a href="https://github.com/eparraga95">
