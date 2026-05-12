@@ -9,13 +9,6 @@
   - [DanceFit Scoreboard](https://dancefitscoreboard.vercel.app/login)
   - [Pick It Up](https://pickitup-alpha.vercel.app/)
 
-<div align="center">
-  <a href="https://github.com/eparraga95">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact&langs_count=7&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eparraga95&show_icons=true&theme=gruvbox&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eparraga95&layout=compact&langs_count=7&theme=gruvbox" />
-  </a>
-</div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
