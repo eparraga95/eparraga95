@@ -11,8 +11,9 @@
 
 <div align="center">
   <a href="https://github.com/eparraga95">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eparraga95&show_icons=true&theme=gruvbox&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eparraga95&layout=compact&langs_count=7&theme=gruvbox"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eparraga95&show_icons=true&theme=gruvbox&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eparraga95&layout=compact&langs_count=7&theme=gruvbox" />
+  </a>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -31,7 +32,7 @@
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </div>
   
-  ##
+##
   
 <div align="center">
   <a href="mailto:eduardo.parraga95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
